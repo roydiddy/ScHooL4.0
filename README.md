@@ -1,5 +1,5 @@
 # ScHooL4.0
-Link: https://xd.adobe.com/view/d908bb3b-3e6a-4998-94a9-54ebd13b928b-8c5b/
+Click on Link to see the project: https://xd.adobe.com/view/d908bb3b-3e6a-4998-94a9-54ebd13b928b-8c5b/
 
 User Interface for school students
 
