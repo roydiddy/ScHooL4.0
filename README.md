@@ -10,13 +10,8 @@ Tools: AdobeXD
 Features: 
 
 Newsfeed
-
 Timetable
-
 ToDo List
-
 Teacher appointment
-
 Overview of marks
-
 Canteen menu
